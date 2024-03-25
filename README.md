@@ -1,2 +1,2 @@
-# Polyp_Sementation
+# Polyp_Segmentation
 Individual Project
