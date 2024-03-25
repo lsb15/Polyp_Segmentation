@@ -2,7 +2,7 @@
 Individual Project
 
 
-# Polyp Segmentation with UNet++
+# Polyp Segmentation and Detection with UNet++
 
 This repository contains code for polyp segmentation using the NestedUNet architecture. Polyp segmentation is a critical task in medical image analysis, particularly in diagnosing gastrointestinal diseases. The NestedUNet architecture, inspired by the popular U-Net model, is known for its effectiveness in semantic segmentation tasks.
 
